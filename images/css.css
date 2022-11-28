@@ -1,0 +1,50 @@
+@charset "utf-8";
+body {
+	background-image: url(logo1.jpg);
+	font-family: "得意黑";
+	font-size: 26px;
+	line-height: 25px;
+	color: #BC8F8F;
+}
+.nav {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #738CAA;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.main {
+	background-image: url(bj.png);
+	color: #BC8F8F;
+}
+a {
+	font-size: 26px;
+	font-family: "得意黑";
+}
+a:link {
+	color: #BC8F8F;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #BC8F8F;
+}
+a:hover {
+	text-decoration: none;
+	color: #FFF;
+}
+a:active {
+	text-decoration: none;
+	color: #BC8F8F;
+}
+.title {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #200F15;
+	border-left-width: 6px;
+	border-left-style: solid;
+	border-left-color: #200F15;
+	padding-left: 10px;
+	color: #AD5A5A;
+}
